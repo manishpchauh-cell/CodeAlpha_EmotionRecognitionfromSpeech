@@ -1,0 +1,2 @@
+# CodeAlpha_EmotionRecognitionfromSpeech
+TASK-2 CodeAlpha_EmotionRecognitionfromSpeech
